@@ -3,10 +3,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaneggenreich&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/stefaneggenreich)  
 
 
 <!--
+
+![GitHub metrics](https://metrics.lecoq.io/stefaneggenreich)  
 **stefaneggenreich/stefaneggenreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
